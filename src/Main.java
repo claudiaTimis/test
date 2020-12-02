@@ -5,5 +5,6 @@ public class Main {
         int x=2;
         int v=5;
         int suma=x+v;
+        System.out.println(suma);
     }
 }
